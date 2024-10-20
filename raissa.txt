@@ -1,0 +1,5 @@
+
+WIND@RAISSA MINGW64 ~/demo-repo (main)
+$ git clone https://github.com/ntubekang/test.git
+Cloning into 'test'...
+warning: You appear to have cloned an empty repository.
