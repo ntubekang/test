@@ -1,0 +1,5 @@
+WIND@RAISSA MINGW64 ~/demo-repo/test (dev)
+$ ls
+raissa.txt
+
+WIND@RAISSA MINGW64 ~/demo-repo/test (dev)
